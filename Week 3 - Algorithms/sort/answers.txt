@@ -1,0 +1,16 @@
+sort1 uses: Bubble Sort
+
+How do you know?: The execution time increases exponentially with the random and the reversed lists of increasing length [O(n²)].
+However, with the sorted list (fastest possible case) it increases linearly [Omega(n)]. This is exactly how a Bubble Sort algorithm would behave.
+
+
+sort2 uses: Merge Sort
+
+How do you know?: It is the fastest with the largest list, meaning that the execution time doesn't increase exonentially. The only of the three
+that behaves that way is the Merge Sort algorithm.
+
+
+sort3 uses: Selection Sort
+
+How do you know?: The execution time increases exponentially [O(n²)] for random and reversed as well as for the sorted list which would
+be the fastes possible case [Omega(n²)]. This is exactly how a Selection Sort algorithm would behave.

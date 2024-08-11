@@ -1,0 +1,4 @@
+HTML tags used: <nav>, <a>, <ul>, <li>, <h1>, <p>, <div>, <img>, <form>, <input>
+CSS properties used: font-family, width, margin, overflow, background-color, color
+JavaScript: A button was added to display an alert when clicked.
+Bootstrap: The navbar component was used to create a navigation menu.

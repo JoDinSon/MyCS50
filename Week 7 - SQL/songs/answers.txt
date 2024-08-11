@@ -1,0 +1,17 @@
+Audio Aura:
+The listener seems to have a good balance between high-energy and low-energy tracks indicating
+that she  likes a variety of genres ranging from upbeat to relaxed and mellow songs.
+
+The medium valence in the songs show a mix of positive and negative emotions in the music the
+listener likes.
+
+The high dancability score suggest the lister enjoys physical engagement into listening to music.
+
+
+Why it might not be representative:
+The observed timeframe is pretty small and peoples music tastes evolves over time. Hence the analysis
+probably does not accurately reflect the listeners current preferences.
+
+Basing the "audio aura" solely on the avergae for energy, valence and danceablity heavily
+oversimplifies the complexity of music and individual listening prefecenes as well as the
+resulting character traits.
